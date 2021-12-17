@@ -22,3 +22,11 @@ pip3 install -r requirements.txt
 Запуск:
 
 python3 main.py
+
+
+Пример работы бота:
+
+![photo_2021-12-17_19-40-43](https://user-images.githubusercontent.com/78643026/146578384-190baadb-e43b-46bf-9188-ebce34c7bda6.jpg)
+
+
+На связи был Sorrow,совсем скоро услышимся.
