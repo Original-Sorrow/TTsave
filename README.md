@@ -26,7 +26,8 @@ python3 main.py
 
 Пример работы бота:
 
-![photo_2021-12-17_19-40-43](https://user-images.githubusercontent.com/78643026/146578384-190baadb-e43b-46bf-9188-ebce34c7bda6.jpg)
+![photo_2021-12-17_19-46-28](https://user-images.githubusercontent.com/78643026/146579034-45c6c3cc-f75c-47de-bf13-10038b2b4e3c.jpg)
+
 
 
 На связи был Sorrow,совсем скоро услышимся.
